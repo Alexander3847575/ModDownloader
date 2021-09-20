@@ -1,0 +1,1372 @@
+{
+  "mods": {
+    "common":  [
+      {
+        "display": "Additional Banners",
+        "name": "Additional Banners",
+        "slug": "additional-banners",
+        "id": 230137
+      },
+      {
+        "display": "Apotheosis",
+        "name": "Apotheosis",
+        "slug": "apotheosis",
+        "id": 313970
+      },
+      {
+        "display": "AppleSkin",
+        "name": "AppleSkin",
+        "slug": "appleskin",
+        "id": 248787
+      },
+      {
+        "display": "Aquaculture 2",
+        "name": "Aquaculture 2",
+        "slug": "aquaculture",
+        "id": 60028
+      },
+      {
+        "display": "Architect's Palette",
+        "name": "Architect's Palette",
+        "slug": "architects-palette",
+        "id": 433862
+      },
+      {
+        "display": "Artifacts",
+        "name": "Artifacts",
+        "slug": "artifacts",
+        "id": 312353
+      },
+      {
+        "display": "AttributeFix",
+        "name": "AttributeFix",
+        "slug": "attributefix",
+        "id": 280510
+      },
+      {
+        "display": "AutoRegLib",
+        "name": "AutoRegLib",
+        "slug": "autoreglib",
+        "id": 250363
+      },
+      {
+        "display": "BannerAdditions",
+        "name": "BannerAdditions",
+        "slug": "banneradditions",
+        "id": 397310
+      },
+      {
+        "display": "Bed Benefits",
+        "name": "Bed Benefits",
+        "slug": "bed-benefits",
+        "id": 377051
+      },
+      {
+        "display": "Better Badlands",
+        "name": "Better Badlands",
+        "slug": "better-badlands",
+        "id": 421763
+      },
+      {
+        "display": "Better Burning",
+        "name": "Better Burning",
+        "slug": "better-burning",
+        "id": 353434
+      },
+      {
+        "display": "YUNG's Better Caves",
+        "name": "YUNG's Better Caves (Forge)",
+        "slug": "yungs-better-caves",
+        "id": 340583
+      },
+      {
+        "display": "Bookshelf",
+        "name": "Bookshelf",
+        "slug": "bookshelf",
+        "id": 228525
+      },
+      {
+        "display": "Bountiful",
+        "name": "Bountiful",
+        "slug": "bountiful",
+        "id": 309516
+      },
+      {
+        "display": "Brazier",
+        "name": "Brazier",
+        "slug": "brazier",
+        "id": 402616
+      },
+      {
+        "display": "Buddycards",
+        "name": "Buddycards",
+        "slug": "buddycards",
+        "id": 425991
+      },
+      {
+        "display": "Creatures and Beasts",
+        "name": "Creatures and Beasts",
+        "slug": "creatures-and-beasts",
+        "id": 414401
+      },
+      {
+        "display": "Chinese Workshop",
+        "name": "ChineseWorkshop",
+        "slug": "chineseworkshop",
+        "id": 291142
+      },
+      {
+        "display": "Coins JE",
+        "name": "Coins JE",
+        "slug": "coins-je",
+        "id": 377056
+      },
+      {
+        "display": "Cosmetic Armor Reworked",
+        "name": "Cosmetic Armor Reworked",
+        "slug": "cosmetic-armor-reworked",
+        "id": 237307
+      },
+      {
+        "display": "CraftTweaker",
+        "name": "CraftTweaker",
+        "slug": "crafttweaker",
+        "id": 239197
+      },
+      {
+        "display": "CreativeCore",
+        "name": "CreativeCore",
+        "slug": "creativecore",
+        "id": 257814
+      },
+      {
+        "display": "Cursed",
+        "name": "Cursed",
+        "slug": "cursed",
+        "id": 347445
+      },
+      {
+        "display": "DamageTilt",
+        "name": "Damage Tilt",
+        "slug": "damage-tilt",
+        "id": 411705
+      },
+      {
+        "display": "Dark Paintings",
+        "name": "Dark Paintings",
+        "slug": "dark-paintings",
+        "id": 377281
+      },
+      {
+        "display": "Desolation (Forge)",
+        "name": "Desolation (Forge)",
+        "slug": "desolation-forge",
+        "id": 445926
+      },
+      {
+        "display": "Doggy Talents",
+        "name": "Doggy Talents",
+        "slug": "doggy-talents",
+        "id": 271050
+      },
+      {
+        "display": "Ender Mail",
+        "name": "Ender Mail",
+        "slug": "ender-mail",
+        "id": 374771
+      },
+      {
+        "display": "Enderium in the End",
+        "name": "Enderium in the End",
+        "slug": "enderium-in-the-end",
+        "id": 401400
+      },
+      {
+        "display": "Enhanced Mushrooms",
+        "name": "Enhanced Mushrooms",
+        "slug": "enhanced-mushrooms",
+        "id": 383725
+      },
+      {
+        "display": "Farmer's Delight",
+        "name": "Farmer's Delight",
+        "slug": "farmers-delight",
+        "id": 398521
+      },
+      {
+        "display": "FastFurnace",
+        "name": "FastFurnace",
+        "slug": "fastfurnace",
+        "id": 299540
+      },
+      {
+        "display": "FastWorkbench",
+        "name": "FastWorkbench",
+        "slug": "fastworkbench",
+        "id": 288885
+      },
+      {
+        "display": "Genetic Animals",
+        "name": "Genetic Animals",
+        "slug": "genetic-animals",
+        "id": 313213
+      },
+      {
+        "display": "Hardcore Revival",
+        "name": "Hardcore Revival",
+        "slug": "hardcore-revival",
+        "id": 274036
+      },
+      {
+        "display": "ItemPhysic (Full)",
+        "name": "ItemPhysic Full",
+        "slug": "itemphysic",
+        "id": 258587
+      },
+      {
+        "display": "Just Enough Resources (JER)",
+        "name": "Just Enough Resources (JER)",
+        "slug": "just-enough-resources-jer",
+        "id": 240630
+      },
+      {
+        "display": "Kiwi",
+        "name": "🥝 Kiwi",
+        "slug": "kiwi",
+        "id": 303657
+      },
+      {
+        "display": "KleeSlabs",
+        "name": "KleeSlabs",
+        "slug": "kleeslabs",
+        "id": 241895
+      },
+      {
+        "display": "Lighting Wand",
+        "name": "🌟 Lighting Wand",
+        "slug": "lighting-wand",
+        "id": 296028
+      },
+      {
+        "display": "Masonry Blocks",
+        "name": "Masonry Blocks",
+        "slug": "masonry-blocks",
+        "id": 419962
+      },
+      {
+        "display": "MixinBootstrap",
+        "name": "MixinBootstrap",
+        "slug": "mixinbootstrap",
+        "id": 357178
+      },
+      {
+        "display": "MmmMmmMmmMmm",
+        "name": "MmmMmmMmmMmm",
+        "slug": "mmmmmmmmmmmm",
+        "id": 225738
+      },
+      {
+        "display": "Off Hand Combat",
+        "name": "Off Hand Combat",
+        "slug": "off-hand-combat",
+        "id": 417112
+      },
+      {
+        "display": "Omni",
+        "name": "Omni",
+        "slug": "omni",
+        "id": 417801
+      },
+      {
+        "display": "Ores Above Diamonds",
+        "name": "Ores Above Diamonds",
+        "slug": "ores-above-diamonds",
+        "id": 351339
+      },
+      {
+        "display": "The Outer End",
+        "name": "The Outer End",
+        "slug": "the-outer-end",
+        "id": 430404
+      },
+      {
+        "display": "Packing Tape",
+        "name": "Packing Tape",
+        "slug": "packing-tape",
+        "id": 238659
+      },
+      {
+        "display": "Passable Foliage",
+        "name": "🌳 Passable Foliage",
+        "slug": "passable-foliage",
+        "id": 379887
+      },
+      {
+        "display": "Passthrough Signs",
+        "name": "Passthrough Signs",
+        "slug": "passthrough-signs",
+        "id": 224633
+      },
+      {
+        "display": "Peculiars",
+        "name": "Peculiars",
+        "slug": "peculiars",
+        "id": 418551
+      },
+      {
+        "display": "Ping",
+        "name": "Ping",
+        "slug": "ping",
+        "id": 222967
+      },
+      {
+        "display": "Placebo",
+        "name": "Placebo",
+        "slug": "placebo",
+        "id": 283644
+      },
+      {
+        "display": "Pumpkin Spice Everything",
+        "name": "Pumpkin Spice Everything",
+        "slug": "pumpkin-spice-everything",
+        "id": 410697
+      },
+      {
+        "display": "Quark",
+        "name": "Quark",
+        "slug": "quark",
+        "id": 243121
+      },
+      {
+        "display": "Regrowth",
+        "name": "Regrowth",
+        "slug": "regrowth",
+        "id": 381597
+      },
+      {
+        "display": "Sign Button",
+        "name": "Sign Button",
+        "slug": "sign-button",
+        "id": 277970
+      },
+      {
+        "display": "SlimyBoyos",
+        "name": "SlimyBoyos",
+        "slug": "slimyboyos",
+        "id": 281993
+      },
+      {
+        "display": "Snow! Real Magic!",
+        "name": "⛄ Snow! Real Magic!",
+        "slug": "snow-real-magic",
+        "id": 308663
+      },
+      {
+        "display": "Stairway to Aether",
+        "name": "Stairway to Aether",
+        "slug": "stairway-to-aether",
+        "id": 245713
+      },
+      {
+        "display": "Subterranean Wilderness",
+        "name": "Subterranean Wilderness",
+        "slug": "subterranean-wilderness",
+        "id": 413426
+      },
+      {
+        "display": "The Undergarden",
+        "name": "The Undergarden",
+        "slug": "the-undergarden",
+        "id": 379849
+      },
+      {
+        "display": "Tool Belt",
+        "name": "Tool Belt",
+        "slug": "tool-belt",
+        "id": 260262
+      },
+      {
+        "display": "Variant16x",
+        "name": "Variant16x",
+        "slug": "variant16x",
+        "id": 364441
+      },
+      {
+        "display": "Variant16x: Biomes O' Plenty",
+        "name": "Variant16x: Biomes O' Plenty",
+        "slug": "variant16x-biomesoplenty",
+        "id": 373906
+      },
+      {
+        "display": "Waddles",
+        "name": "Waddles",
+        "slug": "waddles",
+        "id": 251767
+      },
+      {
+        "display": "YUNG's API",
+        "name": "YUNG's API (Forge)",
+        "slug": "yungs-api",
+        "id": 421850
+      },
+      {
+        "display": "Additional Bars",
+        "name": "Additional Bars [FORGE]",
+        "slug": "additional-bars",
+        "id": 357362
+      },
+      {
+        "display": "Danny's Expansion",
+        "name": "Danny's Expansion",
+        "slug": "beta-dannys-expansion",
+        "id": 425918
+      },
+      {
+        "display": "Abnormals Core",
+        "name": "Abnormals Core",
+        "slug": "abnormals-core",
+        "id": 382216
+      },
+      {
+        "display": "Abnormals Delight",
+        "name": "Abnormals Delight",
+        "slug": "abnormals-delight",
+        "id": 442719
+      },
+      {
+        "display": "Addendum",
+        "name": "Addendum (Forge)",
+        "slug": "addendum",
+        "id": 411162
+      },
+      {
+        "display": "Additional Lights",
+        "name": "Additional Lights",
+        "slug": "additional-lights",
+        "id": 384991
+      },
+      {
+        "display": "Alex's Mobs",
+        "name": "Alex's Mobs",
+        "slug": "alexs-mobs",
+        "id": 426558
+      },
+      {
+        "display": "Antique Atlas",
+        "name": "Antique Atlas",
+        "slug": "antique-atlas",
+        "id": 227795
+      },
+      {
+        "display": "Archer's Paradox",
+        "name": "Archer's Paradox",
+        "slug": "archers-paradox",
+        "id": 353399
+      },
+      {
+        "display": "Atmospheric",
+        "name": "Atmospheric",
+        "slug": "atmospheric",
+        "id": 362393
+      },
+      {
+        "display": "Autumnity",
+        "name": "Autumnity",
+        "slug": "autumnity",
+        "id": 365045
+      },
+      {
+        "display": "Backpacked",
+        "name": "Backpacked",
+        "slug": "backpacked",
+        "id": 352835
+      },
+      {
+        "display": "Backpacker",
+        "name": "Backpacker",
+        "slug": "backpacker",
+        "id": 414218
+      },
+      {
+        "display": "Bedspreads",
+        "name": "Bedspreads (Forge)",
+        "slug": "bedspreads",
+        "id": 308653
+      },
+      {
+        "display": "Beenfo",
+        "name": "Beenfo",
+        "slug": "beenfo",
+        "id": 357256
+      },
+      {
+        "display": "Berry Good",
+        "name": "Berry Good",
+        "slug": "berry-good",
+        "id": 355589
+      },
+      {
+        "display": "Bettas",
+        "name": "Bettas",
+        "slug": "bettas",
+        "id": 420951
+      },
+      {
+        "display": "Better End (Forge)",
+        "name": "BetterEnd (Forge)",
+        "slug": "betterend-forge-port",
+        "id": 428877
+      },
+      {
+        "display": "Better Weather",
+        "name": "Better Weather - Seasons, Blizzards, and more!",
+        "slug": "better-weather",
+        "id": 400714
+      },
+      {
+        "display": "Blame",
+        "name": "Blame (Forge)",
+        "slug": "blame",
+        "id": 406201
+      },
+      {
+        "display": "Bloom and Gloom",
+        "name": "Bloom and Gloom",
+        "slug": "bloom-and-gloom",
+        "id": 422972
+      },
+      {
+        "display": "Buzzier Bees",
+        "name": "Buzzier Bees",
+        "slug": "buzzier-bees",
+        "id": 355458
+      },
+      {
+        "display": "Oh the Biomes You'll Go",
+        "name": "Oh The Biomes You'll Go",
+        "slug": "oh-the-biomes-youll-go",
+        "id": 247560
+      },
+      {
+        "display": "Callable Horses",
+        "name": "Callable Horses",
+        "slug": "callable-horses",
+        "id": 331746
+      },
+      {
+        "display": "Carry On",
+        "name": "Carry On",
+        "slug": "carry-on",
+        "id": 274259
+      },
+      {
+        "display": "Ceiling Torch",
+        "name": "Ceiling Torch",
+        "slug": "ceiling-torch",
+        "id": 326599
+      },
+      {
+        "display": "Champions",
+        "name": "Champions",
+        "slug": "champions",
+        "id": 307152
+      },
+      {
+        "display": "Charm Reforged",
+        "name": "Charm Reforged",
+        "slug": "charm-reforged",
+        "id": 430988
+      },
+      {
+        "display": "Charmonium",
+        "name": "Charmonium",
+        "slug": "charmonium",
+        "id": 378696
+      },
+      {
+        "display": "Chocolate Fix",
+        "name": "Chocolate Fix",
+        "slug": "chocolate-fix",
+        "id": 416306
+      },
+      {
+        "display": "Citadel",
+        "name": "Citadel",
+        "slug": "citadel",
+        "id": 331936
+      },
+      {
+        "display": "CoFH Core",
+        "name": "CoFH Core",
+        "slug": "cofh-core",
+        "id": 69162
+      },
+      {
+        "display": "Collective",
+        "name": "Collective",
+        "slug": "collective",
+        "id": 342584
+      },
+      {
+        "display": "Combustive Fishing",
+        "name": "Combustive Fishing",
+        "slug": "combustive-fishing",
+        "id": 279693
+      },
+      {
+        "display": "Connectible Chains (Forge)",
+        "name": "Connectible Chains [FORGE]",
+        "slug": "connectible-chains-forge",
+        "id": 418514
+      },
+      {
+        "display": "Crash Utilities",
+        "name": "Crash Utilities",
+        "slug": "crash-utilities",
+        "id": 371813
+      },
+      {
+        "display": "Create",
+        "name": "Create",
+        "slug": "create",
+        "id": 328085
+      },
+      {
+        "display": "Crumbs (Forge)",
+        "name": "Crumbs (Forge)",
+        "slug": "crumbs-forge",
+        "id": 415747
+      },
+      {
+        "display": "Cuneiform",
+        "name": "Cuneiform",
+        "slug": "cuneiform",
+        "id": 419176
+      },
+      {
+        "display": "Curio of Undying",
+        "name": "Curio of Undying (Forge)",
+        "slug": "curio-of-undying",
+        "id": 316873
+      },
+      {
+        "display": "Curios",
+        "name": "Curios API (Forge)",
+        "slug": "curios",
+        "id": 309927
+      },
+      {
+        "display": "Customizable Elytra",
+        "name": "Customizable Elytra",
+        "slug": "customizable-elytra",
+        "id": 440047
+      },
+      {
+        "display": "Cycle Paintings",
+        "name": "Cycle Paintings",
+        "slug": "cycle-paintings",
+        "id": 345973
+      },
+      {
+        "display": "Decorative Blocks",
+        "name": "Decorative Blocks",
+        "slug": "decorative-blocks",
+        "id": 362528
+      },
+      {
+        "display": "Decorative Blocks modded compat",
+        "name": "Decorative Blocks modded compat",
+        "slug": "decorative-blocks-modded-compat",
+        "id": 421760
+      },
+      {
+        "display": "Decorative Winter",
+        "name": "Decorative Winter",
+        "slug": "decorative-winter",
+        "id": 430836
+      },
+      {
+        "display": "Diamond Glass",
+        "name": "Diamond Glass",
+        "slug": "diamond-glass",
+        "id": 270959
+      },
+      {
+        "display": "Diet",
+        "name": "Diet",
+        "slug": "diet",
+        "id": 443570
+      },
+      {
+        "display": "Dimensional Dungeons",
+        "name": "Dimensional Dungeons",
+        "slug": "dimensional-dungeons",
+        "id": 352222
+      },
+      {
+        "display": "Dungeons Gear",
+        "name": "Dungeons Gear",
+        "slug": "dungeons-gear",
+        "id": 401247
+      },
+      {
+        "display": "Dungeons Mobs",
+        "name": "Dungeons Mobs",
+        "slug": "dungeons-mobs",
+        "id": 428883
+      },
+      {
+        "display": "Dungeons Plus",
+        "name": "Dungeons Plus",
+        "slug": "dungeons-plus",
+        "id": 377794
+      },
+      {
+        "display": "When Dungeons Arise",
+        "name": "When Dungeons Arise",
+        "slug": "when-dungeons-arise",
+        "id": 442508
+      },
+      {
+        "display": "Earth Mobs",
+        "name": "Earth Mobs",
+        "slug": "earth-mobs",
+        "id": 333256
+      },
+      {
+        "display": "Emojiful",
+        "name": "Emojiful",
+        "slug": "emojiful",
+        "id": 284324
+      },
+      {
+        "display": "Enchant With Mob",
+        "name": "Enchant With Mob",
+        "slug": "enchant-with-mob",
+        "id": 391187
+      },
+      {
+        "display": "Ender Chested",
+        "name": "Ender Chested",
+        "slug": "ender-chested",
+        "id": 412615
+      },
+      {
+        "display": "Endergetic Expansion",
+        "name": "The Endergetic Expansion",
+        "slug": "endergetic",
+        "id": 291509
+      },
+      {
+        "display": "Enhanced Celestials",
+        "name": "Enhanced Celestials - Blood Moons & Harvest Moons",
+        "slug": "enhanced-celestials",
+        "id": 438447
+      },
+      {
+        "display": "Ensorcellation",
+        "name": "Ensorcellation",
+        "slug": "ensorcellation",
+        "id": 349447
+      },
+      {
+        "display": "Environmental",
+        "name": "Environmental",
+        "slug": "environmental",
+        "id": 388992
+      },
+      {
+        "display": "Exotic Birds",
+        "name": "Exotic Birds",
+        "slug": "exotic-birds",
+        "id": 242830
+      },
+      {
+        "display": "Extended Lights",
+        "name": "Extended Lights",
+        "slug": "extended-lights-mod",
+        "id": 335051
+      },
+      {
+        "display": "Extra Boats",
+        "name": "Extra Boats",
+        "slug": "extra-boats",
+        "id": 337396
+      },
+      {
+        "display": "Extra Golems",
+        "name": "Extra Golems",
+        "slug": "extra-golems",
+        "id": 233300
+      },
+      {
+        "display": "Fairy Lights",
+        "name": "Fairy Lights",
+        "slug": "fairy-lights",
+        "id": 233342
+      },
+      {
+        "display": "Fakeblocks",
+        "name": "FakeBlocks",
+        "slug": "fakeblocks",
+        "id": 252672
+      },
+      {
+        "display": "The Farlanders",
+        "name": "The Farlanders",
+        "slug": "farlanders",
+        "id": 336432
+      },
+      {
+        "display": "Farmer's Delight Integration",
+        "name": "Farmer's Delight Integration",
+        "slug": "farmers-delight-integration",
+        "id": 447816
+      },
+      {
+        "display": "FerriteCore",
+        "name": "FerriteCore",
+        "slug": "ferritecore",
+        "id": 429235
+      },
+      {
+        "display": "Fins and Tails",
+        "name": "Fins and Tails",
+        "slug": "fins-and-tails",
+        "id": 427471
+      },
+      {
+        "display": "Floor Mats",
+        "name": "Floor Mats",
+        "slug": "floor-mats",
+        "id": 413140
+      },
+      {
+        "display": "Frozen Up",
+        "name": "Frozen Up",
+        "slug": "frozen-up",
+        "id": 430652
+      },
+      {
+        "display": "GeckoLib",
+        "name": "GeckoLib",
+        "slug": "geckolib",
+        "id": 388172
+      },
+      {
+        "display": "Gems n' Jewels",
+        "name": "Gems & Jewels",
+        "slug": "gems-jewels",
+        "id": 392943
+      },
+      {
+        "display": "Kotlin for Forge",
+        "name": "Kotlin for Forge",
+        "slug": "kotlin-for-forge",
+        "id": 351264
+      },
+      {
+        "display": "Lantern Colors",
+        "name": "Lantern Colors",
+        "slug": "lantern-colors",
+        "id": 395245
+      },
+      {
+        "display": "Lava Monsters",
+        "name": "Lava Monsters",
+        "slug": "lava-monsters",
+        "id": 60329
+      },
+      {
+        "display": "Lightest Lamps",
+        "name": "Lightest Lamps",
+        "slug": "lightest-lamps",
+        "id": 325716
+      },
+      {
+        "display": "Macaw's Doors",
+        "name": "Macaw's Doors",
+        "slug": "macaws-doors",
+        "id": 378646
+      },
+      {
+        "display": "Macaw's Paintings",
+        "name": "Macaw's Paintings",
+        "slug": "macaws-paintings",
+        "id": 438116
+      },
+      {
+        "display": "Macaw's Windows",
+        "name": "Macaw's Windows",
+        "slug": "macaws-windows",
+        "id": 363569
+      },
+      {
+        "display": "Meet Your Fight",
+        "name": "Meet Your Fight",
+        "slug": "meet-your-fight",
+        "id": 409371
+      },
+      {
+        "display": "The Mighty Architect",
+        "name": "The Mighty Architect",
+        "slug": "the-mighty-architect",
+        "id": 317792
+      },
+      {
+        "display": "Miner's Helmet",
+        "name": "Miner's Helmet",
+        "slug": "miners-helmet",
+        "id": 351948
+      },
+      {
+        "display": "More Minecarts",
+        "name": "More Minecarts",
+        "slug": "more-minecarts",
+        "id": 440845
+      },
+      {
+        "display": "More Waterlogging",
+        "name": "More Waterlogging",
+        "slug": "more-waterlogging",
+        "id": 401417
+      },
+			{
+				"display": "Mowzie's Mobs",
+				"name": "Mowzie's Mobs",
+        "slug": "mowzies-mobs",
+				"id": 250498
+			},
+      {
+        "display": "Neapolitan",
+        "name": "Neapolitan",
+        "slug": "neapolitan",
+        "id": 382016
+      },
+      {
+        "display": "Not Enough Crashes (Forge)",
+        "name": "Not Enough Crashes (Forge)",
+        "slug": "not-enough-crashes-forge",
+        "id": 442354
+      },
+      {
+        "display": "Oh My Gourd",
+        "name": "Oh My Gourd",
+        "slug": "oh-my-gourd",
+        "id": 377322
+      },
+      {
+        "display": "Outvoted",
+        "name": "Outvoted",
+        "slug": "outvoted",
+        "id": 415057
+      },
+      {
+        "display": "Path Under Gates",
+        "name": "Path Under Gates",
+        "slug": "path-under-gates",
+        "id": 358580
+      },
+      {
+        "display": "Performant",
+        "name": "Performant",
+        "slug": "performant",
+        "id": 354143
+      },
+      {
+        "display": "Personality",
+        "name": "Personality",
+        "slug": "personality",
+        "id": 415974
+      },
+      {
+        "display": "Pet Revival",
+        "name": "Pet Revival",
+        "slug": "pet-revival",
+        "id": 420098
+      },
+      {
+        "display": "Pane In The Glass",
+        "name": "Pane In The Glass",
+        "slug": "pane-in-the-glass",
+        "id": 374529
+      },
+      {
+        "display": "Plonk",
+        "name": "Plonk",
+        "slug": "plonk",
+        "id": 345779
+      },
+      {
+        "display": "Structure Gel API",
+        "name": "Structure Gel API",
+        "slug": "structure-gel-api",
+        "id": 378802
+      },
+      {
+        "display": "Supplementaries",
+        "name": "Supplementaries",
+        "slug": "supplementaries",
+        "id": 412082
+      },
+      {
+        "display": "SwingThroughGrass",
+        "name": "SwingThroughGrass",
+        "slug": "swingthroughgrass",
+        "id": 264353
+      },
+      {
+        "display": "Sword Displays",
+        "name": "Sword Displays",
+        "slug": "sword-displays",
+        "id": 392762
+      },
+      {
+        "display": "Terra Incognita: The Unknown Land",
+        "name": "Terra Incognita: The Unknown Land",
+        "slug": "terraincognita",
+        "id": 435386
+      },
+      {
+        "display": "The Conjurer",
+        "name": "The Conjurer",
+        "slug": "the-conjurer",
+        "id": 377798
+      },
+      {
+        "display": "The Bumblezone (Forge)",
+        "name": "The Bumblezone (Forge)",
+        "slug": "the-bumblezone-forge",
+        "id": 362479
+      },
+      {
+        "display": "The One Probe",
+        "name": "The One Probe",
+        "slug": "the-one-probe",
+        "id": 245211
+      },
+      {
+        "display": "TorchSlabs",
+        "name": "Torch Slabs Mod",
+        "slug": "torchslabs-mod",
+        "id": 355649
+      },
+      {
+        "display": "Underwater Enchanting",
+        "name": "Underwater Enchanting",
+        "slug": "underwater-enchanting",
+        "id": 348758
+      },
+      {
+        "display": "Upgrade Aquatic",
+        "name": "Upgrade Aquatic",
+        "slug": "upgrade-aquatic",
+        "id": 326895
+      },
+      {
+        "display": "Valhelsia Structures",
+        "name": "Valhelsia Structures",
+        "slug": "valhelsia-structures",
+        "id": 347488
+      },
+      {
+        "display": "The Weirding Gadget",
+        "name": "The Weirding Gadget",
+        "slug": "the-weirding-gadget",
+        "id": 258914
+      },
+      {
+        "display": "Whisperwoods",
+        "name": "Whisperwoods",
+        "slug": "whisperwoods",
+        "id": 349597
+      },
+      {
+        "display": "Windowlogging",
+        "name": "Windowlogging",
+        "slug": "windowlogging",
+        "id": 408759
+      },
+      {
+        "display": "Wool Tweaks",
+        "name": "Wool Tweaks",
+        "slug": "wool-tweaks",
+        "id": 414111
+      },
+      {
+        "display": "Xerca's Music Maker Mod",
+        "name": "Music Maker Mod",
+        "slug": "music-maker-mod",
+        "id": 341448
+      },
+      {
+        "display": "Joy of Painting",
+        "name": "Joy of Painting",
+        "slug": "joy-of-painting",
+        "id": 350727
+      }
+    ],
+    "client": [
+      {
+        "display": "Ambient Environment",
+        "name": "Ambient Environment",
+        "slug": "ambient-environment",
+        "id": 320163
+      },
+      {
+        "display": "AmbientSounds 3",
+        "name": "AmbientSounds 3",
+        "slug": "ambientsounds",
+        "id": 254284
+      },
+      {
+        "display": "Back Tools",
+        "name": "Back Tools",
+        "slug": "back-tools",
+        "id": 229061
+      },
+      {
+        "display": "Client Tweaks",
+        "name": "Client Tweaks",
+        "slug": "client-tweaks",
+        "id": 251407
+      },
+      {
+        "display": "Controlling",
+        "name": "Controlling",
+        "slug": "controlling",
+        "id": 250398
+      },
+      {
+        "display": "CraftingTweaks",
+        "name": "Crafting Tweaks",
+        "slug": "crafting-tweaks",
+        "id": 233071
+      },
+      {
+        "display": "Ding",
+        "name": "Ding",
+        "slug": "ding",
+        "id": 231275
+      },
+      {
+        "display": "Dynamic Surroundings",
+        "name": "Dynamic Surroundings",
+        "slug": "dynamic-surroundings",
+        "id": 238891
+      },
+      {
+        "display": "Menu Companions",
+        "name": "Menu Companions",
+        "slug": "menu-companions",
+        "id": 410617
+      },
+      {
+        "display": "Neat",
+        "name": "Neat",
+        "slug": "neat",
+        "id": 238372
+      },
+      {
+        "display": "Neko's Enchanted Books",
+        "name": "Neko's Enchanted Books",
+        "slug": "nekos-enchanted-books",
+        "id": 441114
+      },
+      {
+        "display": "ReAuth",
+        "name": "ReAuth",
+        "slug": "reauth",
+        "id": 237701
+      },
+      {
+        "display": "TRansliterationLib",
+        "name": "TRansliterationLib",
+        "slug": "transliterationlib",
+        "id": 441024
+      },
+      {
+        "display": "Tips",
+        "name": "Tips",
+        "slug": "tips",
+        "id": 306549
+      },
+      {
+        "display": "Better Biome Blend",
+        "name": "Better Biome Blend",
+        "slug": "better-biome-blend",
+        "id": 446253
+      },
+      {
+        "display": "Cake Chomps",
+        "name": "Cake Chomps (Forge)",
+        "slug": "cake-chomps",
+        "id": 307943
+      },
+      {
+        "display": "Chat Heads",
+        "name": "Chat Heads",
+        "slug": "chat-heads",
+        "id": 407206
+      },
+      {
+        "display": "EzZoom",
+        "name": "EzZoom",
+        "slug": "ezzoom",
+        "id": 422719
+      },
+      {
+        "display": "Hotbar Lock Reborn",
+        "name": "HotbarLock Reborn",
+        "slug": "hotbarlock-reborn",
+        "id": 400849
+      },
+      {
+        "display": "ITLT",
+        "name": "It's the little things",
+        "slug": "its-the-little-things",
+        "id": 232791
+      },
+      {
+        "display": "Not Enough Animations",
+        "name": "Not Enough Animations",
+        "slug": "not-enough-animations",
+        "id": 433760
+      },
+      {
+        "display": "Smooth Boot (Forge)",
+        "name": "Smooth Boot (Forge)",
+        "slug": "smooth-boot-forge",
+        "id": 420913
+      },
+      {
+        "display": "Panorama Creator",
+        "name": "Panorama Creator",
+        "slug": "panorama-creator",
+        "id": 366866
+      }
+    ],
+    "server": [
+      {
+        "display": "AI Improvements",
+        "name": "AI Improvements",
+        "slug": "ai-improvements",
+        "id": 233019
+      },
+      {
+        "display": "Auto Restart",
+        "name": "Auto Restart",
+        "slug": "auto-restart",
+        "id": 389711
+      },
+      {
+        "display": "YUNG's Better Mineshafts",
+        "name": "YUNG's Better Mineshafts (Forge)",
+        "slug": "yungs-better-mineshafts-forge",
+        "id": 389665
+      },
+      {
+        "display": "Fast Leaf Decay",
+        "name": "Fast Leaf Decay",
+        "slug": "fast-leaf-decay",
+        "id": 230976
+      },
+      {
+        "display": "Friendly Fire",
+        "name": "Friendly Fire",
+        "slug": "friendly-fire",
+        "id": 255105
+      },
+      {
+        "display": "Morpheus",
+        "name": "Morpheus",
+        "slug": "morpheus",
+        "id": 69118
+      },
+      {
+        "display": "Terraforged",
+        "name": "TerraForged",
+        "slug": "terraforged",
+        "id": 363820
+      },
+      {
+        "display": "Better Portal Opening",
+        "name": "BetterPortalOpening",
+        "slug": "betterportalopening",
+        "id": 416403
+      },
+      {
+        "display": "Death Backup",
+        "name": "Death Backup",
+        "slug": "death-backup",
+        "id": 411571
+      },
+      {
+        "display": "Dismount Entity",
+        "name": "Dismount Entity",
+        "slug": "dismount-entity",
+        "id": 348262
+      },
+      {
+        "display": "LogProt",
+        "name": "Login Protection",
+        "slug": "login-protection",
+        "id": 358304
+      },
+      {
+        "display": "OpenBackup",
+        "name": "OpenBackup",
+        "slug": "openbackup",
+        "id": 307448
+      },
+      {
+        "display": "Pollinator",
+        "name": "Pollinator",
+        "slug": "pollinator",
+        "id": 404721
+      },
+      {
+        "display": "Repurposed Structures",
+        "name": "Repurposed Structures (Forge)",
+        "slug": "repurposed-structures",
+        "id": 368293
+      },
+      {
+        "display": "Sapience",
+        "name": "Sapience",
+        "slug": "sapience",
+        "id": 426097
+      },
+      {
+        "display": "Snow Under Trees",
+        "name": "Snow Under Trees",
+        "slug": "snow-under-trees",
+        "id": 353942
+      },
+      {
+        "display": "Spark",
+        "name": "spark",
+        "slug": "spark",
+        "id": 361579
+      },
+      {
+        "display": "Starlight",
+        "name": "Project Not Found",
+        "slug": "starlight",
+        "id": "N/A"
+      },
+      {
+        "display": "Villager Names",
+        "name": "Villager Names",
+        "slug": "villager-names",
+        "id": 345854
+      },
+      {
+        "display": "Zombie Horse Spawn",
+        "name": "Zombie Horse Spawn",
+        "slug": "zombie-horse-spawn",
+        "id": 345692
+      }
+    ]
+  }
+}
